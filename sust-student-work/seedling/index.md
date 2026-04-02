@@ -34,8 +34,11 @@ image-path="images/mvh-history-stays.jpg"
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
-## Test Title
+## Test Title Arwen
 **Quote**: “The land taught me long-term secure attachment. As long as I kept showing up, so would it.” 
+
+## Text Title Eric
+Casey is a farmer and they farm stuff. Fantastic!
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
