@@ -34,14 +34,8 @@ image-path="images/mvh-history-stays.jpg"
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
-## Testing page: 
-Quote 1: “The land taught me long-term secure attachment. As long as I kept showing up, so would it.” 
-{% include images/figure.html
-class="left"
-width="68"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.instagram.com/p/DC5RnAvvdsQ/?img_index=2)"
-image-path="images/mvh-history-stays.jpg"
-%}
+## Test Title
+**Quote**: “The land taught me long-term secure attachment. As long as I kept showing up, so would it.” 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
