@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/Action_Photo.jpg
 summary: Idk text here
-header-image: sust-student-work/casey_holland/images/Action_Photo.jpg
+header-image: images/Action_Photo.jpg
 header-title:
 header-position: 0px
 toc-section: first
@@ -23,10 +23,13 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 ## Meet the Farmer!
 
-{% include images/Farmer.jpg
-  class="right"
-  width="30%"
-  image-path="sust-student-work/casey_holland/images/Farmer.jpg"
+{% include images/figure-wrap.html
+  image-path="sust-student-work/casey_holland/images/Action_Photo.jpg"
+  caption="What a nice view"
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  image-position="right"
+  image-width="45%"
+  text="The text you put here sits beside the image, not below it. Good for introductory paragraphs, a key argument tied to a specific image, or whenever the visual and the words need to be read together. Content that follows the include starts at full width below both columns."
 %}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
