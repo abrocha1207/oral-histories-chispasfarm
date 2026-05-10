@@ -23,9 +23,6 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 
 ## Meet the Farmer!
-![alt text](images/Farmer.jpg)
-
-<img align="right" width="100" src="Farmer.jpg">
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
 
@@ -52,15 +49,3 @@ While working for these farms and programs, they met some important mentors like
 Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from Farm of Song to help them. So they worked to regenerate the land and kept working for 12 years straight with a team of farmers and interns, building their entire community and farm from the ground up, until Casey suddenly realized one day, “I had never actually really taken a break, and that the things I loved about the farm, I actually really hated. Everything was gray, you know, it had lost color… I was having panic and anxiety attacks before going out to lead the crew…” Casey crashed pretty hard from the burnout. Relentlessly working and micromanaging the farm slowly exhausted Casey, and they really needed to sit down and have a conversation with their crew. Casey was responsible for 30 different roles. They were able to delegate all of these different roles to various crew members. And Casey really values all the people they’ve worked with, they exclaim, “I want to know you in 20 years. Even if you're not on the farm, you're farm adjacent…you're part of the community”. 
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
-
-
-[def]: images/Farmer.jpg
