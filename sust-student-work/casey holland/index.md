@@ -21,12 +21,12 @@ Narrated by Casey Holland (they/them)
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
+
 ## Meet the Farmer!
-{% include images/figure.html
+{% include images/Action_Photo.jpg
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+image-path=images/Action_Photo.jpg"
 %}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
@@ -63,3 +63,6 @@ The image to the right is **wider than the previous one** (60% instead of 48%). 
 Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
 
 Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+
+
+[def]: images/Farmer.jpg
