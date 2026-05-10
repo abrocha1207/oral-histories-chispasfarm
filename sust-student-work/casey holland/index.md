@@ -3,8 +3,8 @@ title: Chispas Farm
 author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/seedling-card.png 
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+thumbnail: images/Action_Photo.jpg
+summary: Idk text here
 header-image: images/seedling-card.png
 header-title:
 header-position: 0px
