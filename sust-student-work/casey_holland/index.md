@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/Action_Photo.jpg
 summary: Idk text here
-header-image: images/Action_Photo.jpg
+header-image: sust-student-work/casey_holland/images/Action_Photo.jpg
 header-title:
 header-position: 0px
 toc-section: first
