@@ -21,8 +21,15 @@ Narrated by Casey Holland (they/them)
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
-
 ## Meet the Farmer!
+
+{% include images/Farmer.jpg
+  class="right"
+  width="60%"
+  caption="Testing"
+  alt-text="Will this work? Maybe..."
+  image-path="sust-student-work/casey holland/images/Farmer.jpg"
+%}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
 
