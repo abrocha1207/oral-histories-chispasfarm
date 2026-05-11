@@ -26,6 +26,14 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 ## Meet the Farmer!
 
+{% include images/figure.html
+  class="right"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
+%}
+
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
 
 But life at home was far from idyllic. Their mother and much of their family struggled with mental illness, and Casey grew up in an emotionally and physically abusive household. They and their two sisters worked on the farm, sometimes helping to harvest the fields of crops such as onions, pumpkins, and chile. Farming wasn’t a passion, “I hated it,” they admit. “I just wanted to play video games or do something else. I didn’t even care about onions.” The family kept animals, chickens, rabbits, a goose, and a duck for food. They would feed them scraps, would rely on their eggs or their meat, and the animals became a source of comfort. “We had that connection to the animals, but largely, we were box and can kids,” they say. 
@@ -61,7 +69,7 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
 %}
 
 {% include images/figure.html
-  class="center"
+  class="right"
   width="60%"
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
