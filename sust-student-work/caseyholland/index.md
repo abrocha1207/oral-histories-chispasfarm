@@ -1,11 +1,11 @@
 ---
-title: Chispas Farm
+title: Seedling
 author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/Action_Photo.jpg
-summary: Idk text here
-header-image: images/Action_Photo.jpg
+thumbnail: images/seedling-card.png 
+summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+header-image: images/seedling-card.png
 header-title:
 header-position: 0px
 toc-section: first
@@ -21,7 +21,14 @@ Narrated by Casey Holland (they/them)
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
+
 ## Meet the Farmer!
+{% include images/figure.html
+class="right"
+width="48%"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+image-path="images/mvh-history-stays.jpg"
+%}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
 
@@ -49,4 +56,4 @@ Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from F
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
 
-Testing, is this verison WORKING?????
+Testing seeing if this works...
