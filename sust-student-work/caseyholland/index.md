@@ -22,6 +22,7 @@ Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 ## Meet the Farmer!
+
 {% include images/figure-wrap.html
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
   caption="What a nice view"
