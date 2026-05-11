@@ -68,18 +68,6 @@ Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from F
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
 
-
-
-
-
-
-
-
-
-
-
-
-
 {% include images/figure.html
   class="right"
   width="60%"
@@ -94,4 +82,33 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
+%}
+
+
+
+
+
+{% assign images =
+"/sust-student-work/caseyholland/images/Magzine_Farm.jpg,
+/sust-student-work/caseyholland/images/Action_Photo.jpg,
+/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg" | split: ','
+%}
+
+{% assign headers =
+"A Photo Title,,
+No caption here" | split: ','
+%}
+
+{% assign captions =
+"It's useful to have informative captions|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+  width="80%"
+  class="center"
+  images=images
+  headers=headers
+  captions=captions
 %}
