@@ -1,5 +1,5 @@
 ---
-title: Chispas Farm
+title: Seedling
 author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
