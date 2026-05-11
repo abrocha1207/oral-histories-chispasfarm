@@ -4,21 +4,24 @@ author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/Action_Photo.jpg
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+summary: Casey Holland’s journey—from a difficult rural upbringing tied to farming to becoming a passionate advocate for sustainable agriculture and community organizing—reflects their transformation into a leader shaping the future of farming in New Mexico. Their work, rooted in anti-capitalist ideals and direct-action principles, now focuses on empowering new farmers through the Grow the Growers program, while honoring the relationships and mentorships that defined their path.
 header-image: images/Action_Photo.jpg
 header-title:
 header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
-placename: New River Gorge National Park
+placename: Chispas Farm
 tags:
-    - history
-    - campus
+    - farm
+    - story
 ---
 
 # Chispas Farm
+
 Narrated by Casey Holland (they/them)
+
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
+
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 ## Meet the Farmer!
