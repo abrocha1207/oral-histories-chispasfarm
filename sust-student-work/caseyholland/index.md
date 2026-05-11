@@ -70,11 +70,20 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
 
 ## Mini Podcast
 
-Arwen & Eric talk about their thoughts on working on this project. 
+Arwen & Eric talk about their thoughts on working on this project
 
 {% include media/audio.html
   src="/sust-student-work/caseyholland/podcast/Oral Project.mp3"
 %}
+
+## Want to Learn More? 
+
+Where is Chispas Farms? 
+
+229 Saavedra rd sw, Albuquerque, NM 87105
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1275.6371792286786!2d-106.67147892162963!3d35.065959095190316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220ce4a9dc191b%3A0x713cfc3519f82709!2s229%20Saavedra%20Rd%20SW%2C%20Albuquerque%2C%20NM%2087105!5e1!3m2!1sen!2sus!4v1778470809075!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 {% include images/figure.html
   class="right"
