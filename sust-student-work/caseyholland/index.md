@@ -1,11 +1,11 @@
 ---
-title: Seedling
+title: Chispas Farm
 author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/seedling-card.png 
+thumbnail: images/Action_Photo.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/seedling-card.png
+header-image: images/Action_Photo.jpg
 header-title:
 header-position: 0px
 toc-section: first
@@ -21,13 +21,14 @@ Narrated by Casey Holland (they/them)
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
 
-
 ## Meet the Farmer!
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+{% include images/figure-wrap.html
+  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
+  caption="What a nice view"
+  alt-text="Hiking trail through a canyon in the Sandia foothills."
+  image-position="right"
+  image-width="45%"
+  text="The text you put here sits beside the image, not below it. Good for introductory paragraphs, a key argument tied to a specific image, or whenever the visual and the words need to be read together. Content that follows the include starts at full width below both columns."
 %}
 
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
