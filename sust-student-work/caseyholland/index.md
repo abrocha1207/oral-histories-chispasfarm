@@ -23,15 +23,6 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 ## Meet the Farmer!
 
-{% include images/figure-wrap.html
-  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
-  caption="What a nice view"
-  alt-text="Hiking trail through a canyon in the Sandia foothills."
-  image-position="right"
-  image-width="45%"
-  text="The text you put here sits beside the image, not below it. Good for introductory paragraphs, a key argument tied to a specific image, or whenever the visual and the words need to be read together. Content that follows the include starts at full width below both columns."
-%}
-
 Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s South Valley. Born and raised in rural southern New Mexico.  Casey’s family had roots in agriculture; their mother’s side owned 50 acres of farmland in Belen, plus a two-acre family vegetable garden. Their grandfather also had a horse, and they remember childhood moments like playing in the hay storage or posing on a Clydesdale. 
 
 But life at home was far from idyllic. Their mother and much of their family struggled with mental illness, and Casey grew up in an emotionally and physically abusive household. They and their two sisters worked on the farm, sometimes helping to harvest the fields of crops such as onions, pumpkins, and chile. Farming wasn’t a passion, “I hated it,” they admit. “I just wanted to play video games or do something else. I didn’t even care about onions.” The family kept animals, chickens, rabbits, a goose, and a duck for food. They would feed them scraps, would rely on their eggs or their meat, and the animals became a source of comfort. “We had that connection to the animals, but largely, we were box and can kids,” they say. 
@@ -57,5 +48,3 @@ While working for these farms and programs, they met some important mentors like
 Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from Farm of Song to help them. So they worked to regenerate the land and kept working for 12 years straight with a team of farmers and interns, building their entire community and farm from the ground up, until Casey suddenly realized one day, “I had never actually really taken a break, and that the things I loved about the farm, I actually really hated. Everything was gray, you know, it had lost color… I was having panic and anxiety attacks before going out to lead the crew…” Casey crashed pretty hard from the burnout. Relentlessly working and micromanaging the farm slowly exhausted Casey, and they really needed to sit down and have a conversation with their crew. Casey was responsible for 30 different roles. They were able to delegate all of these different roles to various crew members. And Casey really values all the people they’ve worked with, they exclaim, “I want to know you in 20 years. Even if you're not on the farm, you're farm adjacent…you're part of the community”. 
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
-
-Testing seeing if this works...
