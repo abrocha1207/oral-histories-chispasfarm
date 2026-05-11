@@ -42,14 +42,6 @@ But life at home was far from idyllic. Their mother and much of their family str
 
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
 
-{% include images/figure.html
-  class="left"
-  width="30%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
-%}
-
 By their final year, the Occupy Wall Street movement was happening, and they threw themselves into the camp, connecting with others who spoke the same language of systemic change. It was at Occupy that they first heard Travis McKenzie and Rodrigo Rodriguez of Project Feed the Hood speak at teach-ins. “There was just this language they were speaking of liberation and creation… about the things we could actively do about it on a day-to-day basis that really spoke to me on a deeper level.” So then, in their last semester, they packed their schedule with classes that would change everything. They took macroeconomics, “...to learn the language of the enemy,” they joke, while also enrolling in a sustainability course with Jessica Rowland. As part of their Peace Studies minor, they needed a community internship to graduate. So they reached out to Project Feed the Hood and were accepted. 
 
 That semester, taking all those classes and interning with Project Feed the Hood, was transformative. Casey went from being inside all day to realizing this is what they need to do with their life. They explained that they, “[H]ad a summer internship in Chicago, graduate school lined up, a future ahead of me… and I was like, Actually? I’m staying. I’m going to farm.”
@@ -68,13 +60,25 @@ Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from F
 
 {% include images/figure.html
   class="right"
-  width="60%"
+  width="45%"
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Group Photo.jpg"
 %}
 
 So, although Chispas has been a huge part of Casey’s life and identity, they remark, “I look around and I, we did it. We fucking did it. It's so beautiful. Yeah. And I'm growing and changing in a way that the space can't hold anymore”. Casey’s transition has been full of support and reflection. And now they’re moving on to a leadership position for the Ag community within NM. They’re now taking the role of director at the Grow the Growers farmer training program, which really helps new farmers get up on their feet. Now directly being a resource for those beginning to farm. Although Casey is starting anew, they cannot stress how much they value the relationships they’ve made. “This is my community.” Even though moving on, Casey fully intends on supporting those taking over Chispas Farm, and is still planning to come back once a month and work with them. Casey believes in closing loops and opening spirals as a philosophy and states, “... I will still know these people in 20 years. They matter. And how I act now also deeply matters. I want to model that for them, that’s it’s not all screw off, bye, peace, I’m onto the next adventure. I want to live down the road…”
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% include images/figure.html
   class="right"
