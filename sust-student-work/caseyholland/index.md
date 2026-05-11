@@ -28,7 +28,7 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 {% include images/figure.html
   class="right"
-  width="60%"
+  width="40%"
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
@@ -66,14 +66,6 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Group Photo.jpg"
-%}
-
-{% include images/figure.html
-  class="right"
-  width="60%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
 %}
 
 {% include images/figure.html
