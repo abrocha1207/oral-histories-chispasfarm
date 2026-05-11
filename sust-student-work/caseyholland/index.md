@@ -28,7 +28,7 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 
 {% include images/figure.html
   class="right"
-  width="40%"
+  width="45%"
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
@@ -41,6 +41,14 @@ But life at home was far from idyllic. Their mother and much of their family str
 ## Time at UNM 
 
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
+
+{% include images/figure.html
+  class="left"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
+%}
 
 By their final year, the Occupy Wall Street movement was happening, and they threw themselves into the camp, connecting with others who spoke the same language of systemic change. It was at Occupy that they first heard Travis McKenzie and Rodrigo Rodriguez of Project Feed the Hood speak at teach-ins. “There was just this language they were speaking of liberation and creation… about the things we could actively do about it on a day-to-day basis that really spoke to me on a deeper level.” So then, in their last semester, they packed their schedule with classes that would change everything. They took macroeconomics, “...to learn the language of the enemy,” they joke, while also enrolling in a sustainability course with Jessica Rowland. As part of their Peace Studies minor, they needed a community internship to graduate. So they reached out to Project Feed the Hood and were accepted. 
 
@@ -69,7 +77,7 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
 %}
 
 {% include images/figure.html
-  class="center"
+  class="left"
   width="60%"
   caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
