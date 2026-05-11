@@ -59,3 +59,19 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Group Photo.jpg"
 %}
+
+{% include images/figure.html
+  class="center"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
+%}
+
+{% include images/figure.html
+  class="center"
+  width="60%"
+  caption="What a nice view"
+  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
+%}
