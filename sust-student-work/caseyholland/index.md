@@ -4,7 +4,7 @@ author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/Action_Photo.jpg
-summary: Casey Holland’s journey—from a difficult rural upbringing tied to farming to becoming a passionate advocate for sustainable agriculture and community organizing—reflects their transformation into a leader shaping the future of farming in New Mexico. Their work, rooted in anti-capitalist ideals and direct-action principles, now focuses on empowering new farmers through the Grow the Growers program, while honoring the relationships and mentorships that defined their path.
+summary: Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
 header-image: images/Action_Photo.jpg
 header-title:
 header-position: 0px
