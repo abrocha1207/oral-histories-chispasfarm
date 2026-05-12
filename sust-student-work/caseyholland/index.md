@@ -97,8 +97,7 @@ Arwen & Eric talk about their thoughts on working on this project
 /sust-student-work/caseyholland/images/Action_Photo.jpg,
 /sust-student-work/caseyholland/images/Bunny.jpg,
 /sust-student-work/caseyholland/images/Plants.jpg,
-/sust-student-work/caseyholland/images/Goat.jpg,
-/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg" | split: ','
+/sust-student-work/caseyholland/images/Goat.jpg, | split: ','
 %}
 
 
