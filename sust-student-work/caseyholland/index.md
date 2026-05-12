@@ -105,6 +105,9 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 {% assign images =
 "/sust-student-work/caseyholland/images/Magzine_Farm.jpg,
 /sust-student-work/caseyholland/images/Action_Photo.jpg,
+/sust-student-work/caseyholland/images/Bunny.jpg,
+/sust-student-work/caseyholland/images/Plants.jpg,
+/sust-student-work/caseyholland/images/Goat.jpg,
 /sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg" | split: ','
 %}
 
@@ -113,6 +116,4 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
   width="80%"
   class="center"
   images=images
-  headers=headers
-  captions=captions
 %}
