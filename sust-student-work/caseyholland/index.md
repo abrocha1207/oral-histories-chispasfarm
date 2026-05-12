@@ -3,9 +3,9 @@ title: Chispas Farm
 author: Narrated by Casey Holland (they/them)
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/Action_Photo.jpg
+thumbnail: images/Plants.jpg
 summary: Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
-header-image: images/Plants.jpg 
+header-image: images/Action_Photo.jpg
 header-title:
 header-position: 0px
 toc-section: first
@@ -18,12 +18,14 @@ tags:
 
 # Chispas Farm
 
+Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
+
 ## Meet the Farmer!
 
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="Meet Cassey Holland!"
+  caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
 %}
@@ -32,14 +34,14 @@ Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s 
 
 But life at home was far from idyllic. Their mother and much of their family struggled with mental illness, and Casey grew up in an emotionally and physically abusive household. They and their two sisters worked on the farm, sometimes helping to harvest the fields of crops such as onions, pumpkins, and chile. Farming wasn’t a passion, “I hated it,” they admit. “I just wanted to play video games or do something else. I didn’t even care about onions.” The family kept animals, chickens, rabbits, a goose, and a duck for food. They would feed them scraps, would rely on their eggs or their meat, and the animals became a source of comfort. “We had that connection to the animals, but largely, we were box and can kids,” they say. 
 
-## Time at UNM 
+## Time at UNM sust-student-work/caseyholland/images/Goat.jpg
 
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
 
 {% include images/figure.html
   class="left"
   width="60%"
-  caption="And Casey's Crew!"
+  caption="What a nice view"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
 %}
@@ -80,6 +82,7 @@ Email: chispasfarms@gmail.com
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1275.6371792286786!2d-106.67147892162963!3d35.065959095190316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220ce4a9dc191b%3A0x713cfc3519f82709!2s229%20Saavedra%20Rd%20SW%2C%20Albuquerque%2C%20NM%2087105!5e1!3m2!1sen!2sus!4v1778471382493!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+
 ## Mini Podcast
 
 Arwen & Eric talk about their thoughts on working on this project
@@ -95,6 +98,8 @@ Narrated by Casey Holland (they/them)
 Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
 
 Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
+
+
 
 {% assign images =
 "/sust-student-work/caseyholland/images/Magzine_Farm.jpg,
@@ -120,5 +125,3 @@ This image has a caption, but no title|
   headers=headers
   captions=captions
 %}
-
-
