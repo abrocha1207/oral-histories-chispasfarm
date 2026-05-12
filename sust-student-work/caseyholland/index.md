@@ -23,7 +23,7 @@ tags:
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="What a nice view"
+  caption="Meet Cassey Holland!"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
 %}
@@ -37,9 +37,9 @@ But life at home was far from idyllic. Their mother and much of their family str
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
 
 {% include images/figure.html
-  class="center"
-  width="50%"
-  caption="What a nice view"
+  class="left"
+  width="60%"
+  caption="And Casey's Crew!"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
 %}
