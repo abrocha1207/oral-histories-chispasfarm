@@ -108,16 +108,6 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
 /sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg" | split: ','
 %}
 
-{% assign headers =
-"A Photo Title,,
-No caption here" | split: ','
-%}
-
-{% assign captions =
-"It's useful to have informative captions|
-This image has a caption, but no title|
-" | split: '|'
-%}
 
 {% include images/carousel.html
   width="80%"
