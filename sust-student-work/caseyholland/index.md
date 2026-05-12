@@ -40,7 +40,7 @@ At the University of New Mexico, Casey pursued international politics, wanting t
 
 
 {% include images/figure.html
-  class="left"
+  class="center"
   width="60%"
   caption="Occupy Wall Street Movement <br> Photo Taken By Gregory Peterson"
   alt-text="Photo of Casey Holland"
