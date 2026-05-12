@@ -73,7 +73,7 @@ So, although Chispas has been a huge part of Casey’s life and identity, they r
 Arwen & Eric talk about their thoughts on working on this project
 
 {% include media/audio.html
-  src="/sust-student-work/caseyholland/podcast/Oral Project.mp3"
+  src="sust-student-work/caseyholland/podcast/Oral Project.mp3"
 %}
 
 ## Want to Learn More? 
