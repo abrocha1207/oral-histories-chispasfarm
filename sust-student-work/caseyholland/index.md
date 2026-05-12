@@ -88,7 +88,7 @@ Email: chispasfarms@gmail.com
 Arwen & Eric talk about their thoughts on working on this project
 
 {% include media/audio.html
-  src="/sust-student-work/caseyholland/podcast/Oral_Project.mp3"
+  src="sust-student-work/caseyholland/podcast/Oral_Project.mp3"
 %}
 
 ## Credits 
