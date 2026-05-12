@@ -42,7 +42,7 @@ At the University of New Mexico, Casey pursued international politics, wanting t
 {% include images/figure.html
   class="center"
   width="60%"
-  caption="Occupy Wall Street Movement <br> Photo Taken By Gregory Peterson"
+  caption="*Occupy Wall Street Movement <br> Photo Taken By Gregory Peterson*"
   alt-text="Photo of Casey Holland"
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
 %}
@@ -66,7 +66,7 @@ Chispas Farm marked a new beginning for Casey. Casey invited Ian Coulborn from F
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="What a nice view"
+  caption="*Meet Casey's Crew*"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
   image-path="/sust-student-work/caseyholland/images/Group Photo.jpg"
 %}
