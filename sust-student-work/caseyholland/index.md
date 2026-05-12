@@ -38,11 +38,13 @@ But life at home was far from idyllic. Their mother and much of their family str
 
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
 
+<br>
+<br>
+
 {% include images/figure.html
   class="left"
   width="60%"
-  caption="Occupy Wall Street Movement
-  Photo Taken By Gregory Peterson"
+  caption="Occupy Wall Street Movement <br> Photo Taken By Gregory Peterson"
   alt-text="Photo of Casey Holland"
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
 %}
