@@ -92,16 +92,6 @@ Arwen & Eric talk about their thoughts on working on this project
   src="/oral-histories-chispasfarm/sust-student-work/caseyholland/podcast/Oral_Project.mp3"
 %}
 
-## Credits 
-
-Narrated by Casey Holland (they/them)
-
-Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
-
-Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
-
-
-
 {% assign images =
 "/sust-student-work/caseyholland/images/Magzine_Farm.jpg,
 /sust-student-work/caseyholland/images/Action_Photo.jpg,
@@ -117,3 +107,11 @@ Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Sy
   class="center"
   images=images
 %}
+
+## Credits 
+
+Narrated by Casey Holland (they/them)
+
+Interviewed by Oliva Kelley, Fall 2025 GEOG-589 Qualitative Methods class
+
+Web Profile by ArwenRose Rocha & Eric Truong, Spring 2026 SUST-364 Local Food Systems Practicum class
