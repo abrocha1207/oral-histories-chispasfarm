@@ -16,7 +16,7 @@ tags:
     - story
 ---
 
-# Chispas Farm
+# **Chispas Farm**
 
 Casey Holland went from a tough rural upbringing into a leadership role in sustainable farming, now empowering new farmers through the Grow the Growers program while honoring their roots in activism and mentorship.
 
