@@ -25,8 +25,8 @@ Casey Holland went from a tough rural upbringing into a leadership role in susta
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  caption="Photo of Casey Holland"
+  alt-text="Photo of Casey Holland"
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
 %}
 
@@ -41,8 +41,8 @@ At the University of New Mexico, Casey pursued international politics, wanting t
 {% include images/figure.html
   class="left"
   width="60%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
+  caption="Photo of Casey Holland"
+  alt-text="Photo of Casey Holland"
   image-path="/sust-student-work/caseyholland/images/UNM_Camp_Wallstreet.jpg"
 %}
 
