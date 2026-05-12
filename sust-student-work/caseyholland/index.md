@@ -25,7 +25,7 @@ Casey Holland went from a tough rural upbringing into a leadership role in susta
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="Meet Casey Holland!"
+  caption="*Meet Casey Holland!*"
   alt-text="Photo of Casey Holland"
   image-path="/sust-student-work/caseyholland/images/Farmer.jpg"
 %}
