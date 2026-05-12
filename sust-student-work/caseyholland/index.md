@@ -34,7 +34,7 @@ Casey Holland is formerly the farmer steward of Chispas Farm in Albuquerque’s 
 
 But life at home was far from idyllic. Their mother and much of their family struggled with mental illness, and Casey grew up in an emotionally and physically abusive household. They and their two sisters worked on the farm, sometimes helping to harvest the fields of crops such as onions, pumpkins, and chile. Farming wasn’t a passion, “I hated it,” they admit. “I just wanted to play video games or do something else. I didn’t even care about onions.” The family kept animals, chickens, rabbits, a goose, and a duck for food. They would feed them scraps, would rely on their eggs or their meat, and the animals became a source of comfort. “We had that connection to the animals, but largely, we were box and can kids,” they say. 
 
-## Time at UNM sust-student-work/caseyholland/images/Goat.jpg
+## Time at UNM
 
 At the University of New Mexico, Casey pursued international politics, wanting to change systems from the bottom up. But it was a sociology class that gave them the language to articulate the injustices they’d witnessed throughout their life. They switched majors, looking into power systems, control, and oppression, and embraced anti-capitalist ideals. “I still identify as like an Anarcho-Communist,” they explain. “ [L]earning the truth of what our society is and wanting to do something about it.” Psychology became another passion. “[The] sociology department never really turned us onto psychology,” they say, “But you can’t study groups without knowing about the individual.”  
 
